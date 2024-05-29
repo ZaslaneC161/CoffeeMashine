@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) {
         ControlPanel controlPanel = new ControlPanel();
         CofeMashine cofeMashine = new CofeMashine();
-        while (true){
+        while(true){
             System.out.println("\n\t\t\t*** Добро пожаловать ***");
             System.out.println("Американо: 1\nЭспрессо: 2\nКапучино:" +
                     " 3\nЛатте: 4\nОстаток ингридиентов: 5\nДобавить ингридиентов: 6\n\n\t\t*** Выберите напиток ***");
@@ -24,7 +24,7 @@ public class Main {
             }else if(command == 6){
                 cofeMashine.setIngridient();
             }else{
-                System.out.println("Не верный ввод !!!\nВыберите команду от 1 до 5");
+                System.out.println("Не верный ввод !!!\nВыберите команду от 1 до 6");
             }
         }
     }

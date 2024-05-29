@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d731a36-5b3d-4ec3-8ad9-2c6fe721a15a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CofeMashine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CofeMashine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Maker.java" afterDir="false" />
+    <list default="true" id="8d731a36-5b3d-4ec3-8ad9-2c6fe721a15a" name="Changes" comment="первая сборка">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +50,35 @@
       <option name="presentableId" value="Default" />
       <updated>1716919788116</updated>
     </task>
+    <task id="LOCAL-00001" summary="первая сборка">
+      <option name="closed" value="true" />
+      <created>1716941008995</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716941008995</updated>
+    </task>
+    <task id="LOCAL-00002" summary="первая сборка">
+      <option name="closed" value="true" />
+      <created>1716941077215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716941077215</updated>
+    </task>
+    <task id="LOCAL-00003" summary="первая сборка">
+      <option name="closed" value="true" />
+      <created>1716941100460</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1716941100460</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="первая сборка" />
+    <option name="LAST_COMMIT_MESSAGE" value="первая сборка" />
   </component>
 </project>
