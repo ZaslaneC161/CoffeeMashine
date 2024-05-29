@@ -11,8 +11,6 @@ public class Main {
             System.out.println("Американо: 1\nЭспрессо: 2\nКапучино:" +
                     " 3\nЛатте: 4\nОстаток ингридиентов: 5\nДобавить ингридиентов: 6\n\n\t\t*** Выберите напиток ***");
             int command = new Scanner(System.in).nextInt();
-            System.out.print("\033[H\033[2J");
-            System.out.flush();
             if(command == 1){
                 controlPanel.americano(cofeMashine);
             }else if(command == 2){
