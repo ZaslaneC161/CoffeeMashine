@@ -1,14 +1,14 @@
 public class ControlPanel{
-    public void americano(CofeMashine cofeMashine){
-        cofeMashine.makeAmericano();
+    public void americano(CoffeMashine coffeMashine){
+        coffeMashine.makeAmericano();
     }
-    public void espresso(CofeMashine cofeMashine){
-        cofeMashine.makeEspresso();
+    public void espresso(CoffeMashine coffeMashine){
+        coffeMashine.makeEspresso();
     }
-    public void cappuchino(CofeMashine cofeMashine){
-        cofeMashine.makeCappuccino();
+    public void cappuchino(CoffeMashine coffeMashine){
+        coffeMashine.makeCappuccino();
     }
-    public void latte(CofeMashine cofeMashine){
-        cofeMashine.makeLatte();
+    public void latte(CoffeMashine coffeMashine){
+        coffeMashine.makeLatte();
     }
 }
